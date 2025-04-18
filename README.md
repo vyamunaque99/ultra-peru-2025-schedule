@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ultra Peru 2025 Schedule Generator
+
+An application made for ravers who want a customized Ultra Peru 2025 schedule based on the released set time, allows to generate schedules like the one below.
+
+This is a [Next.js](https://nextjs.org) project bootstrapped in Vercel V0 and [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). 
+
+Now available through [Ultra 2025 Schedule Generator](https://v0-mobile-festival-agenda.vercel.app/)
+
+<p align="center">
+  <img src="https://xjdxhnm29m.ufs.sh/f/1JrBUn0smdRQDM6MpC8Nrj7mnfqDI5kZL8J43vdsFUc6hVWS" width="50%" height="50%"/>
+</p>
 
 ## Getting Started
 
